@@ -1,0 +1,12 @@
+.color1 {
+	background-color: green;
+}
+
+.color2 {
+	background-color: purple;
+}
+.oneSquare {
+	height: 10em;
+	width: 10em;
+	display: inline-block;
+}

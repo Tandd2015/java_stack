@@ -1,0 +1,18 @@
+nav{list-style-type: none;}
+.nav-item{list-style-type: none;}
+.one{height: 15em; width: 20em; margin-left: 1em; border-radius: 5em;}
+.two{display: inline;}
+.three{padding-left: 10em;}
+.four{padding-left: 3em;}
+.five{padding-left: 0.25em;}
+.six{padding-left: 3em; padding-top: 1em;}
+.seven{margin-left: 0.25em;}
+.index{padding-top: 9em;}
+.songsTable{padding-left: 0.50em; padding-top: 3em;}
+.newBookForm{padding-left: 3em; padding-top: 3em;}
+.inputNewBookForm{padding-left: 4em; margin-left: 6em;}
+.ulTopTen{padding-left: 0.50em; margin-top: 3em;border: 0.25em solid black; margin-left: 2em;}
+.blockDisplay{display: block;}
+.white{color: white;}
+.fours{padding-left: 6em; padding-top:1em;}
+.inline{display: inline;}
